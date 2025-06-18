@@ -1,2 +1,3 @@
 HelloWorld
-test conflict
+test conflict_resolved
+
